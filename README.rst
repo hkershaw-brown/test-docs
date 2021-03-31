@@ -1,6 +1,8 @@
 Add another tag
 ================
 
+Here is the tag info
+
 More bleeding edge
 ==================
 

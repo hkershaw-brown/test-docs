@@ -2,7 +2,7 @@
 Cutting edge development
 ========================
 
-4.17
+4.18
 
 after a release
 
